@@ -17,7 +17,7 @@ Un editor de texto o IDE (VS Code, PyCharm o incluso IDLE de Python).
 
 Instalación
 Clonar o descargar el repositorio/código del proyecto.
-git clone https://github.com/usuario/OXXOService.git
+git clone https://github.com/JaneVg/OXXO-Service
 cd OXXOService
 
 
